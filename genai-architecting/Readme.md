@@ -14,3 +14,4 @@ They want to purchase the study materials used for learning. They dont want any 
 ## Model Selection 
 Self Hosted
 Open weight
+https://huggingface.co/ibm-granite
